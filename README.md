@@ -1,2 +1,0 @@
-# ppnkbk.github.io
-blog
